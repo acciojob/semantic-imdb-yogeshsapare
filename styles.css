@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+*{
+	background:#999999;
+}
+header{
+	color:white;
+	border-color:black;
+}
+a{
+	color:black;
+	margin-top:20px;
+}
+p{
+	color:white;
+}
+footer{
+	color:white;
+}
