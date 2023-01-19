@@ -3,9 +3,16 @@
 *{
 	background:#999999;
 }
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 25px;
+  float:right;
+  font-style: italic;
+  bottom:
+}
 header{
 	color:white;
-	border-color:black;
 }
 a{
 	color:black;
@@ -13,6 +20,7 @@ a{
 }
 p{
 	color:white;
+	margin-top:20px;
 }
 footer{
 	color:white;
