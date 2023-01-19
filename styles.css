@@ -11,6 +11,11 @@ aside {
   font-style: italic;
   bottom:
 }
+nav{
+	border:1px solid black;
+	padding:20px;
+	margin-left:20px;
+}
 header{
 	color:white;
 }
